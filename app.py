@@ -34,8 +34,8 @@ restaurants = [
          "id": 5,
         "location": "Alabang",
         "restaurant_name": "Restaurant Five",
-        "status": "Clohttps://www.kkday.com/en/blog/wp-content/uploads/philippines_metro_manila_alabang_ramen_yushoken.jpgsed",
-        "image_url": ""
+        "status": "Open",
+        "image_url": "https://angelotheexplorer.com/wp-content/uploads/2018/06/DSCF2348.jpg"
     },
     {
          "id": 6,
